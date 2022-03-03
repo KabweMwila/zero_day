@@ -1,1 +1,0 @@
-#zero_day repository contains answers for the vagrant project at ALX School
